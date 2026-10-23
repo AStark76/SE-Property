@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Ast.Common.Mvvm/Ast.Common.Mvvm.csproj" />
+  <Project Path="../DocumentNumberCalculator/DocumentNumberCalculator.csproj" Id="9d1e22d6-0b08-4e22-af2d-969182bbd0f7" />
+  <Project Path="DocumentNumber.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+D:\Repos\DocumentNumberCalculator\bin\Debug\net10.0\DocumentNumberCalculator.deps.json
+D:\Repos\DocumentNumberCalculator\bin\Debug\net10.0\DocumentNumberCalculator.dll
+D:\Repos\DocumentNumberCalculator\bin\Debug\net10.0\DocumentNumberCalculator.pdb
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\DocumentNumberCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\DocumentNumberCalculator.AssemblyInfoInputs.cache
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\DocumentNumberCalculator.AssemblyInfo.cs
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\DocumentNumberCalculator.csproj.CoreCompileInputs.cache
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\DocumentNumberCalculator.dll
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\refint\DocumentNumberCalculator.dll
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\DocumentNumberCalculator.pdb
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\ref\DocumentNumberCalculator.dll
+D:\Repos\DocumentNumberCalculator\obj\Debug\net10.0\Document.C209AA4A.Up2Date

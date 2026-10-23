@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DocumentNumber/DocumentNumber.csproj" />
+  <Project Path="DocumentNumberCalculator/DocumentNumberCalculator.csproj" />
+</Solution>
